@@ -33,6 +33,8 @@ Added required field check for Task Name.
 
 Here's a walkthrough of implemented user stories:
 
+<img src="http://imgur.com/a/qFRb7" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <a href="http://imgur.com/a/qFRb7">My First Android Project</a>
 
 GIF created with [LiceCap]
