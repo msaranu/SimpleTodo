@@ -26,15 +26,16 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
-	Added required field check for Task Name.
+	
+Added required field check for Task Name.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/qFRb7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="http://imgur.com/a/qFRb7">My First Android Project</a>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap]
 
 ## Notes
 
